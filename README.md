@@ -6,6 +6,7 @@
 
 - Node.js
 - Azure
+- MongoDB
 
 ### Descrição
 Projeto de estudos feito no curso Digital Innovation One Bootcamp Node.js. 
